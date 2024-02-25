@@ -60,5 +60,5 @@ Usage
     #Download files from the web
     filename = weburl(url)
 
-.. _Telegram: https://t.me/MaheshChauhan
-.. _Github : https://Github.com/Vasusen-code
+.. _Telegram: https://t.me/GodXiaoYan
+.. _Github : https://github.com/GodXiaoYan
